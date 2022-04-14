@@ -9,16 +9,17 @@
 // thank you to fernazer
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
+// thank you to TBNGANN
 // and thanks you to who support my Bot
 
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/LIwXtXs57PxHVTyNl8dTWT', ''] // ganti jadi group lu
+global.owner = ['085784142536'] // Put your number here //owner eval
+global.kontak = ['085784142536','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.prems = ['085784142536'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -57,10 +58,10 @@ global.packname = 'By KAKA BOT' // ganti aja
 global.author = 'KAKA BOT' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
+bc = 'TBNGANN' //KAKA BOT Broadcast
 footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+namabot = 'ᴛʙɴ•ɢᴀɴɴ ʙᴏᴛᴢ'
+namalu = 'TBNGANN'
 
 
 // 
